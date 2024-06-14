@@ -24,3 +24,9 @@ header{
     }
 
 } 
+@media screen and (min-width:1700px) {
+    header{
+        background-color: rgb(243, 17, 224);
+    }
+
+} 
